@@ -3,7 +3,7 @@
 
 ### Get to know me;
 - 🏘️ I am from Turkey, living in Munich, Germany since 2021 April.
-- 🏫 I have B.A in Psychology and Sociology, and I am currently enrolled to an M.A. program, called Applied Social Research.
+- 🏫 I have B.A degrees in Psychology and Sociology, and I am currently enrolled to an M.A. program, called Applied Social Research.
 - 👩🏻‍🎓 Currently I am a ReDi School student in Introduction to Computer Science course. 
 
 ***My motivation;***
@@ -15,8 +15,8 @@
 
 ### Computer Skills;
 - 👩🏻‍💻 I have learnt SPSS in my MA class (Advanced Statistics).
-- 👩🏻‍💻 I have studied Python individually using courses on Udemy.
-- 👩🏻‍💻 I have studied data visualization with Tableau, through Udemy course.
+- 👩🏻‍💻 I have studied data visualization with Tableau, through a Udemy course.
+- 👩🏻‍💻 I continue to study Python individually with Udemy courses.
 
 
     - <p> <img src="https://banner2.cleanpng.com/20180523/gss/kisspng-spss-modeler-ibm-computer-software-statistics-boards-5b05cf77cc75f0.3151321715271074478375.jpg" width="45" <h4> intermediate <h4> </p>
