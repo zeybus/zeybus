@@ -17,9 +17,12 @@
 - 👩🏻‍💻 I have learnt SPSS in my MA class (Advanced Statistics).
 - 👩🏻‍💻 I have studied Python individually using courses on Udemy.
 - 👩🏻‍💻 I have studied data visualization with Tableau, through Udemy course.
-- <p align="left">
-  <img src="https://banner2.cleanpng.com/20180523/gss/kisspng-spss-modeler-ibm-computer-software-statistics-boards-5b05cf77cc75f0.3151321715271074478375.jpg" width="45" title="hover text"> 
-  </p>
+
+
+    - <p> <img src="https://banner2.cleanpng.com/20180523/gss/kisspng-spss-modeler-ibm-computer-software-statistics-boards-5b05cf77cc75f0.3151321715271074478375.jpg" width="45" <h4> intermediate <h4> </p>
+    - <p> <img src="https://banner2.cleanpng.com/20180331/bce/kisspng-microsoft-excel-microsoft-project-logo-microsoft-w-excel-5abfec581e5118.3452195915225273201242.jpg" width="45" <h4> intermediate <h4> </p>
+    - <p> <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png" width="75" <h4> beginner <h4> </p>
+    - <p> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="80" <h4> beginner <h4> </p>
 
 
 <!--
